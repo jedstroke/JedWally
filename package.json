@@ -1,7 +1,13 @@
 {
-  "name": "App1",
+  "name": "JedWally",
   "version": "0.0.1",
   "private": true,
+  "author": {
+    "name": "Jedidiah Gabriel",
+    "email": "holla@jedshock.com",
+    "url": "https://jedshock.com"
+  },
+  "license": "MIT",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
