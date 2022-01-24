@@ -12,7 +12,7 @@ I only created an Android version of the app for preview here's the link to down
 ## Features
 <li>QR code scanner</li>
 <li>Realtime crypto price </li>
-<li>And a pretty chart built with the D3.js </li>
+<li>And a pretty chart built with D3.js </li>
 
 
 ## License
