@@ -1,7 +1,11 @@
 # JedWally 🤓
 Built with React Native, and some APIs serving market data.
 #
-<img src="https://jedshock.com/wp-content/themes/Jedshock/img/others/Screenshot_20210908-230302.png">
+
+<img src="https://user-images.githubusercontent.com/86930056/189776166-9cf4d0d4-8c3a-4eb6-9f00-9ef83d71ccce.jpg">
+<img src="https://user-images.githubusercontent.com/86930056/189776203-a24120e4-56b0-407d-9007-85630ae8dfdf.jpg">
+<img src="https://user-images.githubusercontent.com/86930056/189776239-9656f94c-7f5f-484c-ae05-9be2fc7be939.jpg">
+<img src="https://user-images.githubusercontent.com/86930056/189776299-bd86d33d-b68b-4ec2-ae42-f97c3f156209.jpg">
 
 #
 
