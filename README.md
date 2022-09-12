@@ -10,7 +10,7 @@ Built with React Native, and some APIs serving market data.
 #
 
 ## Demo
-I only created an Android version of the app for preview here's the link to download it 👉🏽 [link](https://jedshock.com/app-release.apk)
+I only created an Android version of the app for preview here's the link to download it 👉🏽 [link](https://drive.google.com/file/d/1F_qzZge2pKW1As50mYZyvG5iyp53WSOM/view?usp=sharing)
 #
 
 ## Features
