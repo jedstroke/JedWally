@@ -1,4 +1,4 @@
-# JedWally 🤓
+# JedWally 🤓 (Old Project)
 Built with React Native, and some APIs serving market data.
 #
 
